@@ -29,11 +29,11 @@ Clone this repo and run command in bellow inside downloaded directory.
 
 *Eg.*
 
-`$ ./install.sh`
+`$ make install`
 
 ## Uninstalling
 Run command in bellow file inside this directory.
 
 *Eg.*
 
-`$ ./uninstall.sh`
+`$ make uninstall`
