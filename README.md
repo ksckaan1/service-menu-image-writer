@@ -37,3 +37,9 @@ Run command in bellow file inside this directory.
 *Eg.*
 
 `$ ./uninstall.sh`
+
+## Screenshots
+
+![](res/1.png)
+
+![](res/2.png)
