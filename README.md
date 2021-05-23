@@ -9,19 +9,19 @@ To install:
 
 **Debian**
 
-`sudo apt install imagewriter make`
+`sudo apt install imagewriter`
 
 **Arch Linux**
 
-`sudo pacman -S imagewriter make`
+`sudo pacman -S imagewriter`
 
 **OpenSUSE**
 
-`sudo zypper install imagewriter make`
+`sudo zypper install imagewriter`
 
 **Fedora**
 
-`sudo yum install imagewriter make`
+`sudo yum install imagewriter`
 
 
 ## Installing
